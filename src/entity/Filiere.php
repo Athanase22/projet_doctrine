@@ -56,5 +56,4 @@ class Filiere
         }
     }
 
-    // ... (Additional methods as needed)
 }
